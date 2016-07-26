@@ -1,2 +1,2 @@
 Print("Hello, мир!")
-Print("Hello everybody")
+Print("Hello всем")
